@@ -1,0 +1,4 @@
+#Sat Nov 27 12:54:49 ICT 2021
+base.0=D\:\\Flutter\\test\\visualgo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
